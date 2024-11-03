@@ -1,0 +1,6 @@
+torch>=1.13.1
+torchvision
+scipy
+numpy==1.23.5
+
+conda install torchvision=0.14.1 scipy=1.13.1 numpy=1.23.5 tqdm=4.66.4 -y
