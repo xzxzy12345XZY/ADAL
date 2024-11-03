@@ -22,7 +22,7 @@ Once the dependencies are installed, you can run the code for Task 1. Since only
 To execute Task 1, run:
 
 ```
-python out_1_class.py
+python our_1_class.py
 ```
 
 This script will load the Task 1 data and perform the classification of PD and DD.
