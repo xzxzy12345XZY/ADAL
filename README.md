@@ -38,5 +38,5 @@ This script will load the Task 1 data and perform the classification of PD and D
 
 - **Private Dataset**: Fully prepared and ready for release, currently under review for public access.
 
-  ### ![8503d820a0bf0db5db854a3570254fa](https://gitee.com/xu-zheyuan/imgs/raw/master/img/202411272122135.png)
+  ![image-20241127213108762](https://gitee.com/xu-zheyuan/imgs/raw/master/img/202411272131877.png)
 
