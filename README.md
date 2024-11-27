@@ -32,3 +32,11 @@ This script will load the Task 1 data and perform the classification of PD and D
 - **Task 1** focuses on classifying Parkinson's Disease (PD) vs. Degenerative Disease (DD).
 - Only Task 1 data is available in this repository. For other tasks, please refer to the paper for more details.
 
+## Datasets
+
+- **PADS**: [https://physionet.org/content/parkinsons-disease-smartwatch/1.0.0/](https://physionet.org/content/parkinsons-disease-smartwatch/1.0.0/) - 
+
+- **Private Dataset**: Fully prepared and ready for release, currently under review for public access.
+
+  ### ![8503d820a0bf0db5db854a3570254fa](https://gitee.com/xu-zheyuan/imgs/raw/master/img/202411272122135.png)
+
